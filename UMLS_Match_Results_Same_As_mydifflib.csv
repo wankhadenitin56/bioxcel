@@ -1,0 +1,10 @@
+OriginalName,UMLS_CUI,Matched_Alias,Match_Score,Canonical_Name,UMLS_SemanticType
+AKT1,C0668624,AKT1,0.9898865222930908,"AKT1 protein, human","Amino Acid, Peptide, or Protein"
+akt1,C0668624,AKT1,0.9898865222930908,"AKT1 protein, human","Amino Acid, Peptide, or Protein"
+PKC-β,C1335261,PKCα,0.8121026158332825,PRKCA gene,Gene or Genome
+PKCbeta,C2261576,PKCbeta,0.9395597577095032,PKCbeta,Molecular Function
+PKC-beta,C3710929,PKC-Beta,0.954800009727478,"PRKCB protein, human","Amino Acid, Peptide, or Protein"
+protein kinase Cbeta,C1172412,protein kinase A Cbeta,0.9074873328208923,protein kinase A Cbeta,"Amino Acid, Peptide, or Protein"
+protein kinase C-β,C0033640,Protein Kinase,0.9481455087661743,Protein Kinases,"Amino Acid, Peptide, or Protein"
+protein kinase C beta,C1418913,protein kinase C beta,0.978674054145813,PRKCB gene,Gene or Genome
+PKCbeta ( -/- ),C2261576,PKCbeta,0.7860919833183289,PKCbeta,Molecular Function

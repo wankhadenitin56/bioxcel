@@ -1,0 +1,71 @@
+OriginalName,Candidate_CUI,Canonical_Name,Aliases,Match_Score
+AKT1,C0285558,RAC-Alpha Serine/Threonine Kinase,AKT1 Protein Kinase,0.7738
+AKT1,C0668624,"AKT1 protein, human",AKT1,0.9899
+AKT1,C0812228,AKT1 gene,AKT1; AKT1 gene; AKT1 Gene; ONCOGENE AKT1,0.9899
+AKT1,C1428707,AKT1S1 gene,AKT1 substrate 1,0.8002
+AKT1,C1530881,"Akt1 protein, rat","Akt1 protein, rat",0.8019
+AKT1,C1629712,Histerid sp. AKT1,Histerid sp. AKT1,0.7991
+AKT1,C3273952,AKT1 Gene Mutation,AKT1 Gene Mutation,0.7849
+AKT1,C3699952,Akt1 phosphate,Akt1 phosphate,0.7899
+akt1,C0285558,RAC-Alpha Serine/Threonine Kinase,AKT1 Protein Kinase,0.7738
+akt1,C0668624,"AKT1 protein, human",AKT1,0.9899
+akt1,C0812228,AKT1 gene,AKT1; AKT1 gene; AKT1 Gene; ONCOGENE AKT1,0.9899
+akt1,C1428707,AKT1S1 gene,AKT1 substrate 1,0.8002
+akt1,C1530881,"Akt1 protein, rat","Akt1 protein, rat",0.8019
+akt1,C1629712,Histerid sp. AKT1,Histerid sp. AKT1,0.7991
+akt1,C3273952,AKT1 Gene Mutation,AKT1 Gene Mutation,0.7849
+akt1,C3699952,Akt1 phosphate,Akt1 phosphate,0.7899
+PKC-β,C0758622,PKC-3 protein,PKC-3 protein,0.7451
+PKC-β,C1335261,PRKCA gene,PKCα,0.8121
+PKC-β,C1418913,PRKCB gene,PKCβ,0.8121
+PKC-β,C1418919,PRKCG gene,PKCγ,0.8121
+PKC-β,C1418920,PRKCH gene,PKC-L,0.795
+PKC-β,C1565919,"PRKCA protein, human",PKC-A,0.8113
+PKC-β,C1706144,PRKCB wt Allele,PKC-beta,0.76
+PKC-β,C3710929,"PRKCB protein, human",PKC-B; PKC-Beta,0.7937
+PKC-β,C4319709,Protein Kinase C-theta,PKC-theta,0.7521
+PKCbeta,C0257291,Protein Kinase C beta,beta pkc; pkc beta,0.6437
+PKCbeta,C0257292,Protein Kinase C beta1,"PKC beta 1; beta 1, PKC",0.6256
+PKCbeta,C0662902,Protein Kinase C beta2,PKCbeta2; PKC beta 2; PKC beta II,0.7749
+PKCbeta,C1418913,PRKCB gene,PKCB,0.583
+PKCbeta,C1706144,PRKCB wt Allele,PKCB,0.583
+PKCbeta,C2261569,cPKCbeta,cPKCbeta,0.7312
+PKCbeta,C2261576,PKCbeta,PKCbeta,0.9396
+PKC-beta,C0662902,Protein Kinase C beta2,PKC-beta II,0.8974
+PKC-beta,C1514550,"PRKACB protein, human",PKA C-Beta,0.604
+PKC-beta,C1705624,AKT2 wt Allele,RAC-BETA,0.6165
+PKC-beta,C1706144,PRKCB wt Allele,PKC-beta,0.9548
+PKC-beta,C3710929,"PRKCB protein, human",PKC-Beta; PKC-B,0.9548
+PKC-beta,C3711641,"Prkcb protein, mouse","pkc-beta protein, mouse",0.7908
+PKC-beta,C4319709,Protein Kinase C-theta,PKC-theta,0.6059
+PKC-beta,C4725022,PKC-beta Inhibitor MS-553,PKC-beta inhibitor MS-553; PKC-beta Inhibitor MS-553,0.6145
+protein kinase Cbeta,C0033640,Protein Kinases,kinase protein; protein kinase; Protein Kinase; Protein kinase,0.8362
+protein kinase Cbeta,C0166559,rac-PK beta,Protein Kinase B beta,0.8385
+protein kinase Cbeta,C0257291,Protein Kinase C beta,Protein Kinase C beta,0.8353
+protein kinase Cbeta,C0904049,protein kinase Nbeta,protein kinase N beta,0.8004
+protein kinase Cbeta,C1172412,protein kinase A Cbeta,protein kinase A Cbeta,0.9075
+protein kinase Cbeta,C1312419,"AKT2 protein, human",Protein Kinase B Beta,0.8385
+protein kinase Cbeta,C1418913,PRKCB gene,protein kinase C beta,0.8353
+protein kinase C-β,C0010531,Cyclic AMP-Dependent Protein Kinases,protein kinase A; Protein Kinase A,0.9017
+protein kinase C-β,C0010536,Cyclic GMP-Dependent Protein Kinases,protein kinase G; Protein Kinase G,0.8786
+protein kinase C-β,C0033640,Protein Kinases,kinase protein; protein kinase; Protein Kinase; Protein kinase,0.9481
+protein kinase C-β,C0164786,Proto-Oncogene Proteins c-akt,protein kinase b,0.8703
+protein kinase C-β,C0285558,RAC-Alpha Serine/Threonine Kinase,protein kinase b,0.8703
+protein kinase C-β,C0812228,AKT1 gene,protein kinase B,0.8703
+protein kinase C-β,C5441746,"Protein Kinase A, human",Protein Kinase A,0.9017
+protein kinase C beta,C0033634,Protein Kinase C,protein kinase c; Protein Kinase C,0.8596
+protein kinase C beta,C0166559,rac-PK beta,Protein Kinase B beta,0.9
+protein kinase C beta,C0217770,protein kinase C eta,protein kinase C eta,0.8637
+protein kinase C beta,C0257291,Protein Kinase C beta,Protein Kinase C beta,0.9787
+protein kinase C beta,C0662902,Protein Kinase C beta2,Protein Kinase C beta I; Protein Kinase C beta II,0.9285
+protein kinase C beta,C1259877,protein kinase C kinase,protein c kinase,0.8596
+protein kinase C beta,C1312419,"AKT2 protein, human",Protein Kinase B Beta,0.9
+protein kinase C beta,C1418913,PRKCB gene,protein kinase C beta,0.9787
+protein kinase C beta,C1418920,PRKCH gene,protein kinase C eta,0.8637
+PKCbeta ( -/- ),C0257291,Protein Kinase C beta,beta pkc; pkc beta,0.5385
+PKCbeta ( -/- ),C0257292,Protein Kinase C beta1,"PKC beta 1; beta 1, PKC",0.5234
+PKCbeta ( -/- ),C0662902,Protein Kinase C beta2,PKCbeta2; PKC beta 2; PKC beta II,0.6484
+PKCbeta ( -/- ),C1418913,PRKCB gene,PKCB,0.4878
+PKCbeta ( -/- ),C1706144,PRKCB wt Allele,PKCB,0.4878
+PKCbeta ( -/- ),C2261569,cPKCbeta,cPKCbeta,0.6117
+PKCbeta ( -/- ),C2261576,PKCbeta,PKCbeta,0.7861

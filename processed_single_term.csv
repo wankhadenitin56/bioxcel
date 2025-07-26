@@ -1,0 +1,22 @@
+term,match,cui,source
+Protein kinase C-β,YES,C1259877,API
+lipid-activated,YES,C0300570,API
+serine/threonine,YES,C0072402,API
+PKC,YES,C4761637,API
+triglyceride,YES,C0041004,API
+mitochondrial,YES,C0887941,API
+PKCβ,YES,C1418913,SPECIAL_SYMBOLS_MAP
+lipids,YES,C0023779,API
+adipose,YES,C1563743,API
+obesity,YES,C0028754,API
+metabolic abnormalities .,YES,C2751993,API
+white adipose tissue,YES,C1704223,API
+mice,YES,C0025914,API
+hepatic steatosis,YES,C0015695,API
+insulin sensitivity .,YES,C0920563,API
+adipose tissue,YES,C0001527,API
+p66,YES,C1427199,API
+adipose dysfunction,YES,C1563743,API
+metabolic disease,YES,C0025517,API
+fatty liver,YES,C0015695,API
+type 2 diabetes .,YES,C4015183,API
